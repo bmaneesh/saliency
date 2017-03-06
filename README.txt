@@ -1,6 +1,6 @@
 These are the instructions for using the code of paper-"Learning to Predict Where Humans Look".
 
-The demands installing multiple toolboxes, which are to be compiled with different compilers and difficult to install because of 
+This demands installing multiple toolboxes, which are to be compiled with different compilers and difficult to install because of 
 the age of some toolboxes and necessary modifications in the code to be made. 
 
 These instructions are for installing the toolboxes and running the code on windows10 with VS14 compiler for MATLAB 2016a.
